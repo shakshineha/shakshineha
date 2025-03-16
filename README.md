@@ -23,8 +23,8 @@
 - 🛠 Version Control: Git
 
 ## Let's Connect!
-📧 Reach me at [mailto: snshakshineha452@example.com]
-💼 Connect on LinkedIn [https://www.linkedin.com/in/shakshi-neha/]
+- 📧 Reach me at [mailto: snshakshineha452@example.com]
+- 💼 Connect on LinkedIn [https://www.linkedin.com/in/shakshi-neha/]
 
 Let's collaborate, innovate, and make sense of the data-driven world together!
 
